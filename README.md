@@ -20,24 +20,24 @@ Provide code examples and explanations of how to get the project.
 
 
 ## version:
-=======================================================================
+
 v2.0
 
 
 ## Website URL:
-=======================================================================
+
 http://itijob.herokuapp.com
 
 ## Release Date:
-=======================================================================
+
 24 Dec 2017
 
 ## Author: 
-=======================================================================
+
 Ambuj Dubey(www.ambujdubey.cf)
 
 ## Contact:
-=======================================================================
+
 Web: www.ambujdubey.cf or https://ambujbpl.github.io
 Oter Website : http://ambujdubey.herokuapp.com
 Email: ambujdubey89@gmail.com
